@@ -13,7 +13,7 @@ The dashboard shows the following calculated metrics:
 
 The live application is hosted on Google Cloud Platform and can be accessed at the following URL:
 
-[http://your-live-url.com](http://your-live-url.com)
+[https://console.cloud.google.com/apis/library/browse?authuser=1&project=dynamic-density-389023&supportedpurview=project](https://console.cloud.google.com/apis/library/browse?authuser=1&project=dynamic-density-389023&supportedpurview=project)
 
 The application updates the price data every second and maintains a 24-hour history.
 
