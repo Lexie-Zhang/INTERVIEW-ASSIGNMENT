@@ -21,7 +21,7 @@ The application updates the price data every second and maintains a 24-hour hist
 
 Uptime monitoring for the application is provided by UptimeRobot. The status of the application can be viewed at the following URL:
 
-[http://your-uptime-monitor-url.com](http://your-uptime-monitor-url.com)
+[https://uptimerobot.com/dashboard#794508255](https://uptimerobot.com/dashboard#794508255)
 
 UptimeRobot checks the status of the application every 5 minutes.
 
