@@ -42,7 +42,7 @@ To run this project locally, follow these steps:
     python main.py
     ```
 
-This will start a local server and the application can be accessed at http://localhost:8050 in a web browser.
+This will start a local server and the application can be accessed in a web browser.
 
 ## Deployment
 
