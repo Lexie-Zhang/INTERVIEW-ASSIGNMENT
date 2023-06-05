@@ -1,0 +1,9 @@
+runtime: python39  # Specifies the runtime
+entrypoint: gunicorn -b :$PORT main:app  # The command that is executed to start app
+
+instance_class: F2  # Defines the instance class
+
+automatic_scaling:  # Configures scaling parameters
+  target_cpu_utilization: 0.65
+  min_instances: 1
+  max_instances: 10
