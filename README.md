@@ -50,9 +50,5 @@ The application is deployed to Google Cloud Platform's App Engine. For details o
 
 [App Engine Documentation](https://cloud.google.com/appengine/docs)
 
-## Project Structure
 
-- `main.py`: This is the main script for the application. It fetches the data from Binance and runs the Dash server.
-- `requirements.txt`: This file lists the Python dependencies for the project.
-- `app.yaml`: This is the configuration file for deployment to Google App Engine.
 
