@@ -46,9 +46,7 @@ This will start a local server and the application can be accessed in a web brow
 
 ## Deployment
 
-The application is deployed to Google Cloud Platform's App Engine. For details on how to deploy a similar application to App Engine, refer to Google's documentation:
-
-[App Engine Documentation](https://cloud.google.com/appengine/docs)
+The application is deployed to Google Cloud Platform's App Engine.
 
 
 
